@@ -2,3 +2,4 @@
 
 ### Sept 10, 2018
 * Python Basics
+* have readed 
