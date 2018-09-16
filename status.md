@@ -1,6 +1,8 @@
 ## Pre Bitiya learning Status
-
-
+### sep 15, 2018
+* watching mchine learning lectures from udacity
+### sep 13, 2018
+* learning python from w3 schools
 ### Sep 12, 2018
 * readed a blog of MR HAWKING on AI
 
