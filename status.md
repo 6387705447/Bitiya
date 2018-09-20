@@ -1,4 +1,11 @@
 ## Pre Bitiya learning Status
+### sep 20,2018
+* rivision of all the work i have done
+* 
+### sep 19,2018
+* i have complete support vector machine and dicision tree algorithm
+### sep 17,2018
+* i have completed naive bayes algorithm
 ### sep 15, 2018
 * watching mchine learning lectures from udacity
 ### sep 13, 2018
