@@ -1,6 +1,10 @@
 ## Pre Bitiya learning Status
+### sep 26, 2018
+* i have traied my data set now im looking for how to do testing of it
+* i have completed the basic python course from w3 schools
 ### sep 25, 2018
 * i have learnt the pandas library to import read n write a csv file to our machine learning code
+* i have loaded the training data of Loan Predicator problem 
 ### sep 24, 2018
 * continue reading the KNN and ADABOOST algorithm
 * started a project Loan Predicator
