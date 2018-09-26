@@ -1,6 +1,9 @@
 ## Pre Bitiya learning Status
+### sep 25, 2018
+* i have learnt the pandas library to import read n write a csv file to our machine learning code
 ### sep 24, 2018
 * continue reading the KNN and ADABOOST algorithm
+* started a project Loan Predicator
 ### sep 23, 2018
 * reading about csv formate
 * reading the pandas library
