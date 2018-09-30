@@ -1,4 +1,15 @@
 ## Pre Bitiya learning Status
+### sep 30, 2018
+* studying the working of mimic on Mycroft
+* Reading about VocaliD
+### sep 29, 2018
+* As i am assigned to work on Text To Speech starting with it
+* Reading blogs on TTS
+### sep 28, 2018
+* Exploring my knowledge on Mycroft
+* contineous learning Machine Learning
+### sep 27,2018
+* completed one more course on Python
 ### sep 26, 2018
 * i have traied my data set now im looking for how to do testing of it
 * i have completed the basic python course from w3 schools
